@@ -1,0 +1,6 @@
+C:\Users\Bamisaye Ruth\Desktop\C#\Color Guessing Game\Color Guessing Game\bin\Debug\Color Guessing Game.exe.config
+C:\Users\Bamisaye Ruth\Desktop\C#\Color Guessing Game\Color Guessing Game\bin\Debug\Color Guessing Game.exe
+C:\Users\Bamisaye Ruth\Desktop\C#\Color Guessing Game\Color Guessing Game\bin\Debug\Color Guessing Game.pdb
+C:\Users\Bamisaye Ruth\Desktop\C#\Color Guessing Game\Color Guessing Game\obj\Debug\Color Guessing Game.exe
+C:\Users\Bamisaye Ruth\Desktop\C#\Color Guessing Game\Color Guessing Game\obj\Debug\Color Guessing Game.pdb
+C:\Users\Bamisaye Ruth\Desktop\C#\Color Guessing Game\Color Guessing Game\obj\Debug\Color Guessing Game.csprojResolveAssemblyReference.cache
